@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e32c12a-311e-48a0-bf68-9dd45946dfe5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Twitter-Clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileFooter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignupForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/Profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1gKA8DHCYyesEXE7MAayMfmYLMR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e32c12a-311e-48a0-bf68-9dd45946dfe5" name="Default Changelist" comment="" />
+      <created>1597852749768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597852749768</updated>
+      <workItem from="1597852752950" duration="3057000" />
+      <workItem from="1598175069896" duration="6475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="0" width="626" height="723" key="#PHP" timestamp="1597853341103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="626" height="723" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1597853341103" />
+    <state x="86" y="211" width="1184" height="298" key="#SQL_Dialects" timestamp="1598185674655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="86" y="211" width="1184" height="298" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1598185674655" />
+    <state x="278" y="24" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598186368549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="24" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598186368549" />
+    <state x="463" y="73" width="430" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1598177239982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="73" width="430" height="574" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598177239982" />
+    <state x="517" y="123" width="311" height="471" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598176852411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="123" width="311" height="471" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1598176852411" />
+    <state x="416" y="113" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597854397776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="113" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597854397776" />
+    <state x="450" y="76" width="455" height="569" key="NewPhpClassDialog" timestamp="1598176818435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="76" width="455" height="569" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1598176818435" />
+    <state x="473" y="392" width="354" height="155" key="NewPhpFileDialog" timestamp="1597854373870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="473" y="392" width="354" height="155" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1597854373870" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598184877556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598184877556" />
+  </component>
+</project>
